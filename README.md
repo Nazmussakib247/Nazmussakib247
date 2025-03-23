@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Nazmussakib247  
+## 👋 Hi, I’m Nazmus Sakib
 ![Profile Views](https://komarev.com/ghpvc/?username=Nazmussakib247&label=Profile%20Views&color=0e75b6&style=flat)  
 
 - 👀 I’m interested in ...  Machine learnign And Data science
