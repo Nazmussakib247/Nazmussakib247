@@ -53,7 +53,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmussakib&show_icons=true&theme=radical" alt="nazmussakib247" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazmussakib247&show_icons=true&theme=radical" alt="nazmussakib" />
 </p>
 
 <p align="center">
