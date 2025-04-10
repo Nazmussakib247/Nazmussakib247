@@ -126,4 +126,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmussakib247&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-             ⭐ *Thanks for visiting my profile! Feel free to connect and explore my work.*
+⭐ *Thanks for visiting my profile! Feel free to connect and explore my work.*
