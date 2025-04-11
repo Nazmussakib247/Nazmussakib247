@@ -17,7 +17,6 @@
 
 ---
 
-
 ### 🧑‍💻 About Me:
 
 - 🎓 I'm currently a **CSE student (6th Semester)** at university.
@@ -87,9 +86,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
 </p>
 
 ---
@@ -100,8 +96,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nazmussakib247&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<!-- Streak Stats with forced refresh -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazmussakib247&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazmussakib247&theme=radical&date_format=j%20M%5B%20Y%5D&timestamp=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
