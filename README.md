@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me:
 
-- 🎓 I'm currently a **CSE student (6th Semester)** at university.
+- 🎓 I'm currently a **CSE student (7th Semester)** at university.
 - 📘 I'm currently learning **Artificial Intelligence and Expert Systems, Machine Learning**.
 - 🤝 I'm looking to collaborate on **open-source learning projects**.
 - 💬 Ask me anything about **Python, Data Visualization, or CSE-related topics**.
