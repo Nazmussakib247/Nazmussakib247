@@ -75,32 +75,10 @@ me.say_hi()
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nazmussakib247&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=false" height="170" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmussakib247&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazmussakib247&theme=tokyonight&border_radius=12&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nazmussakib247&theme=tokyonight&column=6&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+## GitHub Stats
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Nazmussakib247&theme=neo_green&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 ## 📡 Connect With Me
 
